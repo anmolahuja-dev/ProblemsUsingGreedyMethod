@@ -8,4 +8,8 @@ C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\JobSequencing.h(11,20): 
 C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\JobSequencing.h(23,20): warning C4018: '<': signed/unsigned mismatch
 C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\JobSequencing.h(39,10): warning C4018: '<': signed/unsigned mismatch
 C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\HuffmanCoding.h(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\Dijkstra.h(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\Dijkstra.h(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\Dijkstra.h(23,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\Dijkstra.h(45,20): warning C4018: '<': signed/unsigned mismatch
   GreedyMethods.vcxproj -> C:\Users\anmol\source\repos\GreedyMethods\Debug\GreedyMethods.exe

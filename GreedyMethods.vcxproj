@@ -142,9 +142,11 @@
     <ClCompile Include="GreedyMethods.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Dijkstra.h" />
     <ClInclude Include="HuffmanCoding.h" />
     <ClInclude Include="JobSequencing.h" />
     <ClInclude Include="KnapsackProblem.h" />
+    <ClInclude Include="Node.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
