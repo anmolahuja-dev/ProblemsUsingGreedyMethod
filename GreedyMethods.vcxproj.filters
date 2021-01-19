@@ -26,5 +26,8 @@
     <ClInclude Include="JobSequencing.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="HuffmanCoding.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

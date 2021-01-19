@@ -142,6 +142,7 @@
     <ClCompile Include="GreedyMethods.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="HuffmanCoding.h" />
     <ClInclude Include="JobSequencing.h" />
     <ClInclude Include="KnapsackProblem.h" />
   </ItemGroup>

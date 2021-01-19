@@ -7,4 +7,5 @@ C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\KnapsackProblem.h(59,20)
 C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\JobSequencing.h(11,20): warning C4018: '<': signed/unsigned mismatch
 C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\JobSequencing.h(23,20): warning C4018: '<': signed/unsigned mismatch
 C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\JobSequencing.h(39,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\HuffmanCoding.h(34,20): warning C4018: '<': signed/unsigned mismatch
   GreedyMethods.vcxproj -> C:\Users\anmol\source\repos\GreedyMethods\Debug\GreedyMethods.exe

@@ -2,6 +2,7 @@
 #include<vector>
 #include"KnapsackProblem.h"
 #include"JobSequencing.h"
+#include"HuffmanCoding.h"
 #include<iomanip>
 using namespace std;
 
@@ -12,6 +13,7 @@ int main() {
 		cout << "\nEnter the problem, you want to solve\n" << endl;
 		cout << "[1] - Knapsack Problem\n";
 		cout << "[2] - Job Sequencing Problem\n";
+		cout << "[3] - Huffman Coding Problem\n";
 		cout << "[0] - Quit\n";
 		cout << "\nEnter your choice : ";
 		cin >> ch;
@@ -60,6 +62,11 @@ int main() {
 
 			TotalProfit = JobSequencing(v, profits, deadlines);
 			cout << "\nTotal Profit : " << TotalProfit << "\n";
+		}
+		else if (ch == 3) {
+			vector<char>data{ 'A','B','C','D','E' };
+			vector<int>freq{ 3,5,6,4,2 };
+			HuffmanCoding(data, freq);
 		}
 		else if (ch == 0) {
 			cout << "\nThanks for using the program\n";
