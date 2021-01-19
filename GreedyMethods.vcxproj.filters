@@ -23,5 +23,8 @@
     <ClInclude Include="KnapsackProblem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="JobSequencing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

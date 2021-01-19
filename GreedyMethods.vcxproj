@@ -142,6 +142,7 @@
     <ClCompile Include="GreedyMethods.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="JobSequencing.h" />
     <ClInclude Include="KnapsackProblem.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

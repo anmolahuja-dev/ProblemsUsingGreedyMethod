@@ -15,6 +15,8 @@ int Max(vector<float>& v) {
 	return i;
 }
 
+//This Method takes O(n2) time to calculate. It can be reduced to O(nlogn) by using quickSort 
+//or we can use data structure called map to reduce
 float knapsack(vector<int>& profit, vector<int>& weights,int w) {
 	vector<float>ppw,x;  //profit per weight;
 	

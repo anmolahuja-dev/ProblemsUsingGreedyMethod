@@ -1,7 +1,10 @@
 ﻿  GreedyMethods.cpp
 C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\KnapsackProblem.h(10,11): warning C4018: '<': signed/unsigned mismatch
-C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\KnapsackProblem.h(24,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\KnapsackProblem.h(28,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\KnapsackProblem.h(32,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\KnapsackProblem.h(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\KnapsackProblem.h(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\KnapsackProblem.h(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\KnapsackProblem.h(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\KnapsackProblem.h(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\JobSequencing.h(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\JobSequencing.h(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\GreedyMethods\GreedyMethods\JobSequencing.h(39,10): warning C4018: '<': signed/unsigned mismatch
   GreedyMethods.vcxproj -> C:\Users\anmol\source\repos\GreedyMethods\Debug\GreedyMethods.exe
